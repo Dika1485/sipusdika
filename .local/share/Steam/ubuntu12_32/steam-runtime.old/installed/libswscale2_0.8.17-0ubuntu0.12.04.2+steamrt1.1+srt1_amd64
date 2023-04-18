@@ -1,0 +1,16 @@
+drwxr-xr-x root/root         0 2021-05-17 20:38 ./
+drwxr-xr-x root/root         0 2021-05-17 20:37 ./usr/
+drwxr-xr-x root/root         0 2021-05-17 20:37 ./usr/share/
+drwxr-xr-x root/root         0 2021-05-17 20:37 ./usr/share/lintian/
+drwxr-xr-x root/root         0 2021-05-17 20:37 ./usr/share/lintian/overrides/
+-rw-r--r-- root/root       101 2018-09-18 17:08 ./usr/share/lintian/overrides/libswscale2
+drwxr-xr-x root/root         0 2021-05-17 20:37 ./usr/share/doc/
+drwxr-xr-x root/root         0 2021-05-17 20:37 ./usr/share/doc/libswscale2/
+-rw-r--r-- root/root      3282 2018-09-18 17:08 ./usr/share/doc/libswscale2/copyright
+-rw-r--r-- root/root      2225 2018-09-18 17:08 ./usr/share/doc/libswscale2/README.Debian.gz
+-rw-r--r-- root/root     27206 2021-05-17 20:33 ./usr/share/doc/libswscale2/changelog.Debian.amd64.gz
+-rw-r--r-- root/root     19358 2015-03-10 02:21 ./usr/share/doc/libswscale2/changelog.gz
+drwxr-xr-x root/root         0 2021-05-17 20:37 ./usr/lib/
+drwxr-xr-x root/root         0 2021-05-17 20:38 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    284880 2021-05-17 20:38 ./usr/lib/x86_64-linux-gnu/libswscale.so.2.1.0
+lrwxrwxrwx root/root         0 2021-05-17 20:37 ./usr/lib/x86_64-linux-gnu/libswscale.so.2 -> libswscale.so.2.1.0

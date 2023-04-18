@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./usr/
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./usr/bin/
+-rwxr-xr-x root/root     76084 2022-10-14 15:09 ./usr/bin/steam-runtime-urlopen
+-rwxr-xr-x root/root     76056 2022-10-14 15:09 ./usr/bin/steam-runtime-identify-library-abi
+-rwxr-xr-x root/root     76032 2022-10-14 15:09 ./usr/bin/steam-runtime-steam-remote
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./usr/share/
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./usr/share/doc/
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./usr/share/doc/steam-runtime-tools-minimal/
+-rw-r--r-- root/root     31938 2022-10-14 15:06 ./usr/share/doc/steam-runtime-tools-minimal/changelog.i386.gz
+-rw-r--r-- root/root      8738 2022-10-14 14:34 ./usr/share/doc/steam-runtime-tools-minimal/copyright

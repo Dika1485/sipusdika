@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2021-12-06 20:07 ./
+drwxr-xr-x root/root         0 2021-12-06 20:07 ./usr/
+drwxr-xr-x root/root         0 2021-12-06 20:07 ./usr/share/
+drwxr-xr-x root/root         0 2021-12-06 20:07 ./usr/share/doc/
+drwxr-xr-x root/root         0 2021-12-06 20:07 ./usr/share/doc/libwebp6/
+-rw-r--r-- root/root      2027 2021-11-30 15:41 ./usr/share/doc/libwebp6/copyright
+-rw-r--r-- root/root      2593 2021-12-06 20:04 ./usr/share/doc/libwebp6/changelog.Debian.amd64.gz
+drwxr-xr-x root/root         0 2021-12-06 20:07 ./usr/lib/
+drwxr-xr-x root/root         0 2021-12-06 20:07 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    424504 2021-12-06 20:07 ./usr/lib/x86_64-linux-gnu/libwebp.so.6.0.2
+lrwxrwxrwx root/root         0 2021-12-06 20:07 ./usr/lib/x86_64-linux-gnu/libwebp.so.6 -> libwebp.so.6.0.2

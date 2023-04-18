@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2022-07-18 18:06 ./
+drwxr-xr-x root/root         0 2022-07-18 18:06 ./usr/
+drwxr-xr-x root/root         0 2022-07-18 18:06 ./usr/share/
+drwxr-xr-x root/root         0 2022-07-18 18:06 ./usr/share/doc/
+drwxr-xr-x root/root         0 2022-07-18 18:06 ./usr/share/doc/libsdl2-mixer-2.0-0/
+-rw-r--r-- root/root      7466 2022-07-18 17:36 ./usr/share/doc/libsdl2-mixer-2.0-0/copyright
+-rw-r--r-- root/root      2430 2022-07-07 14:16 ./usr/share/doc/libsdl2-mixer-2.0-0/README.txt
+-rw-r--r-- root/root     11759 2022-07-18 18:04 ./usr/share/doc/libsdl2-mixer-2.0-0/changelog.Debian.amd64.gz
+-rw-r--r-- root/root      4334 2022-07-12 20:23 ./usr/share/doc/libsdl2-mixer-2.0-0/changelog.gz
+drwxr-xr-x root/root         0 2022-07-18 18:06 ./usr/lib/
+drwxr-xr-x root/root         0 2022-07-18 18:06 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    156248 2022-07-18 18:06 ./usr/lib/x86_64-linux-gnu/libSDL2_mixer-2.0.so.0.600.1
+lrwxrwxrwx root/root         0 2022-07-18 18:06 ./usr/lib/x86_64-linux-gnu/libSDL2_mixer-2.0.so.0 -> libSDL2_mixer-2.0.so.0.600.1

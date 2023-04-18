@@ -1,0 +1,2 @@
+#Name	#Version	#Comment
+steam-runtime.git	v0.20220928.0-2-g54aa4a6	# build-runtime.py, run.sh, setup.sh etc.

@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2021-06-10 16:29 ./
+drwxr-xr-x root/root         0 2021-06-10 16:29 ./usr/
+drwxr-xr-x root/root         0 2021-06-10 16:29 ./usr/share/
+drwxr-xr-x root/root         0 2021-06-10 16:29 ./usr/share/doc/
+drwxr-xr-x root/root         0 2021-06-10 16:29 ./usr/share/doc/libnm-util2/
+-rw-r--r-- root/root      3579 2021-06-10 12:44 ./usr/share/doc/libnm-util2/copyright
+-rw-r--r-- root/root     27546 2021-06-10 16:25 ./usr/share/doc/libnm-util2/changelog.Debian.amd64.gz
+drwxr-xr-x root/root         0 2021-06-10 16:29 ./usr/lib/
+drwxr-xr-x root/root         0 2021-06-10 16:29 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root    396264 2021-06-10 16:29 ./usr/lib/x86_64-linux-gnu/libnm-util.so.2.7.0
+lrwxrwxrwx root/root         0 2021-06-10 16:29 ./usr/lib/x86_64-linux-gnu/libnm-util.so.2 -> libnm-util.so.2.7.0

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Robocraft
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/301520
+Icon=steam_icon_301520
+Terminal=false
+Type=Application
+Categories=Game;

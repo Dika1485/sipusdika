@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2022-07-11 18:20 ./
+drwxr-xr-x root/root         0 2022-07-11 18:20 ./usr/
+drwxr-xr-x root/root         0 2022-07-11 18:20 ./usr/lib/
+drwxr-xr-x root/root         0 2022-07-11 18:20 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root   1776412 2022-07-11 18:20 ./usr/lib/i386-linux-gnu/libSDL2_ttf-2.0.so.0.2000.0
+drwxr-xr-x root/root         0 2022-07-11 18:20 ./usr/share/
+drwxr-xr-x root/root         0 2022-07-11 18:20 ./usr/share/doc/
+drwxr-xr-x root/root         0 2022-07-11 18:20 ./usr/share/doc/libsdl2-ttf-2.0-0/
+-rw-r--r-- root/root      1562 2022-06-29 01:53 ./usr/share/doc/libsdl2-ttf-2.0-0/changelog.gz
+-rw-r--r-- root/root      4998 2022-07-11 18:15 ./usr/share/doc/libsdl2-ttf-2.0-0/changelog.Debian.i386.gz
+-rw-r--r-- root/root      3151 2022-07-11 18:09 ./usr/share/doc/libsdl2-ttf-2.0-0/copyright
+-rw-r--r-- root/root      1032 2022-06-29 01:53 ./usr/share/doc/libsdl2-ttf-2.0-0/README.txt
+lrwxrwxrwx root/root         0 2022-07-11 18:20 ./usr/lib/i386-linux-gnu/libSDL2_ttf-2.0.so.0 -> libSDL2_ttf-2.0.so.0.2000.0

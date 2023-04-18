@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/dika/fibo.cpp" added="2022-11-12T06:39:36.580189Z" modified="2022-11-12T06:41:15.016312Z" visited="2022-11-12T06:39:36.580190Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T06:41:15.016299Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/palincounter.cpp" added="2022-11-12T06:56:28.440147Z" modified="2022-11-12T07:15:01.582833Z" visited="2022-11-12T06:56:28.440149Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T07:15:01.582830Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Pictures/Screenshot%20from%202022-11-12%2014-11-31.png" added="2022-11-12T07:11:36.258017Z" modified="2022-11-12T07:12:17.399129Z" visited="2022-11-12T07:11:36.258018Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-11-12T07:11:36.258021Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T07:12:17.399122Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/HackerRank%20Question%20-%20Cut%20Them%20All.html" added="2022-11-12T07:23:25.273561Z" modified="2022-11-12T07:23:42.784779Z" visited="2022-11-12T07:23:25.273563Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T07:23:42.784773Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/countduplicateelement.cpp" added="2022-11-12T07:28:11.797791Z" modified="2022-11-12T07:50:01.670716Z" visited="2022-11-12T07:28:11.797792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T07:50:01.670713Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/HackerRank%20Question%20-%20Ancestral%20Names.html" added="2022-11-12T07:32:42.609421Z" modified="2022-11-12T08:45:33.706991Z" visited="2022-11-12T07:32:42.609422Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T07:32:53.061991Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/lib/firefox-esr/firefox-esr %u&apos;" modified="2022-11-12T08:44:59.585343Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T08:45:33.706989Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Pictures/Screenshot%20from%202022-11-12%2014-35-32.png" added="2022-11-12T07:35:33.135163Z" modified="2022-11-12T07:35:59.364879Z" visited="2022-11-12T07:35:33.135164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-11-12T07:35:33.135168Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T07:35:59.364871Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Pictures/Screenshot%20from%202022-11-12%2014-35-46.png" added="2022-11-12T07:35:46.931910Z" modified="2022-11-12T07:35:59.364834Z" visited="2022-11-12T07:35:46.931911Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2022-11-12T07:35:46.931914Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T07:35:59.364822Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/cutherod.cpp" added="2022-11-12T08:07:24.460954Z" modified="2022-11-12T08:15:32.973345Z" visited="2022-11-12T08:07:24.460956Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T08:15:32.973342Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/10.cpp" added="2022-11-12T08:11:58.712524Z" modified="2022-11-12T08:11:58.712535Z" visited="2022-11-12T08:11:58.712526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T08:11:58.712530Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/10(1).cpp" added="2022-11-12T08:14:28.409100Z" modified="2022-11-12T08:14:32.054262Z" visited="2022-11-12T08:14:28.409104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T08:14:28.409112Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T08:14:32.054259Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/10(2).cpp" added="2022-11-12T08:19:06.861062Z" modified="2022-11-12T08:19:09.370395Z" visited="2022-11-12T08:19:06.861064Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T08:19:06.861068Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T08:19:09.370391Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/apt/sources.list" added="2022-11-12T08:57:17.800608Z" modified="2022-11-12T08:59:30.800102Z" visited="2022-11-12T08:57:17.800610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-apt-sources-list"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;software-properties-gtk&apos;" modified="2022-11-12T08:59:30.800089Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/X11/xorg.conf" added="2022-11-12T09:38:26.821288Z" modified="2022-11-12T10:05:44.992956Z" visited="2022-11-12T09:38:26.821288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2022-11-12T10:05:43.937873Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T10:05:44.992954Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/X11/xorg.conf.nvidia-xconfig-original" added="2022-11-12T09:38:34.949884Z" modified="2022-11-12T09:53:09.872301Z" visited="2022-11-12T09:38:34.949884Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T09:53:09.872298Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2022-11-12T09:53:01.981584Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/X11/xorg.conf.backup" added="2022-11-12T09:38:50.624281Z" modified="2022-11-12T09:53:26.993566Z" visited="2022-11-12T09:38:50.624282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2022-11-12T09:38:50.624284Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T09:53:26.993563Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/X11/Xreset" added="2022-11-12T09:56:26.054130Z" modified="2022-11-12T09:56:26.054136Z" visited="2022-11-12T09:56:26.054131Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T09:56:26.054133Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/X11/default-display-manager" added="2022-11-12T10:06:46.041571Z" modified="2022-11-12T10:06:46.041578Z" visited="2022-11-12T10:06:46.041572Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-12T10:06:46.041575Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/steam_latest(1).deb" added="2022-11-12T10:16:30.646323Z" modified="2022-11-12T10:16:37.058457Z" visited="2022-11-12T10:16:30.646324Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T10:16:30.646327Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-11-12T10:16:37.058453Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/logins.csv" added="2022-11-12T11:00:44.020224Z" modified="2022-11-12T15:24:26.263488Z" visited="2022-11-12T11:00:44.020225Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --calc %U&apos;" modified="2022-11-12T15:23:39.249727Z" count="2"/>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2022-11-12T15:24:26.263485Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/Modul%206%20-%20PHP%20CRUD.pdf" added="2022-11-12T14:14:06.633104Z" modified="2022-11-13T09:10:21.971825Z" visited="2022-11-12T14:14:06.633106Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T14:14:08.027500Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2022-11-13T09:10:17.944359Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2022-11-13T09:10:21.971820Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/xampp-linux-x64-8.1.10-0-installer.run" added="2022-11-12T14:21:57.376518Z" modified="2022-11-12T14:21:57.376534Z" visited="2022-11-12T14:21:57.376521Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T14:21:57.376529Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/Taalenta%20Cybersecurity%20Class%20-%20Day%202.pdf" added="2022-11-12T22:46:00.706894Z" modified="2022-11-12T22:46:02.199108Z" visited="2022-11-12T22:46:00.706895Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-12T22:46:02.199103Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/drawSQL-mysql-export-2022-11-13.sql" added="2022-11-13T08:14:50.146063Z" modified="2022-11-13T08:20:47.567786Z" visited="2022-11-13T08:14:50.146066Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/sql"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-13T08:20:47.567779Z" count="3"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-13T08:16:10.217749Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Documents/H1D021013_Priandika%20Ratmadani%20Anugrah_Pemrograman%20Web%20I%20A_Tugas%2010.pdf" added="2022-11-13T08:22:05.870183Z" modified="2022-11-13T08:22:15.600972Z" visited="2022-11-13T08:22:05.870186Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2022-11-13T08:22:05.870198Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2022-11-13T08:22:15.600967Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/connect.php" added="2022-11-13T08:25:16.695700Z" modified="2022-11-13T08:25:18.135583Z" visited="2022-11-13T08:25:16.695701Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-13T08:25:18.135580Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/index.php" added="2022-11-13T08:33:21.146356Z" modified="2022-11-13T08:43:58.448873Z" visited="2022-11-13T08:33:21.146357Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-13T08:43:58.448871Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/lampp/htdocs/laundry/index.php" added="2022-11-13T08:36:06.869172Z" modified="2022-11-13T08:39:30.273341Z" visited="2022-11-13T08:36:06.869173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2022-11-13T08:36:06.869176Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-13T08:39:30.273338Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/lampp/htdocs/laundry/connect.php" added="2022-11-13T08:36:07.976436Z" modified="2022-11-13T08:36:16.198995Z" visited="2022-11-13T08:36:07.976437Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2022-11-13T08:36:07.976439Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-13T08:36:16.198993Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/lampp/htdocs/laundry/company/index.php" added="2022-11-13T08:41:20.591742Z" modified="2022-11-13T09:34:09.782925Z" visited="2022-11-13T08:41:20.591743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-13T09:34:09.782923Z" count="15"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/owner.php" added="2022-11-13T08:59:26.615640Z" modified="2022-11-13T09:43:08.322842Z" visited="2022-11-13T08:59:26.615641Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-13T09:43:08.322830Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///opt/lampp/htdocs/laundry/company/owner.php" added="2022-11-13T09:43:35.028943Z" modified="2022-11-13T12:09:28.846613Z" visited="2022-11-13T09:43:35.028944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-13T12:09:28.846609Z" count="21"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/contohgl01.pdf" added="2022-11-13T12:22:51.270717Z" modified="2022-11-13T12:23:09.432830Z" visited="2022-11-13T12:22:51.270719Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-13T12:23:09.432824Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/SKPL%20SRS%20SIPUSTA.pdf" added="2022-11-13T13:08:23.787609Z" modified="2022-11-13T13:26:37.744831Z" visited="2022-11-13T13:08:23.787610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-13T13:26:37.744825Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/SKPL%20SRS%20SIPUSTA.docx" added="2022-11-13T13:27:48.795171Z" modified="2022-11-13T13:27:58.967141Z" visited="2022-11-13T13:27:48.795172Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-13T13:27:58.967136Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/UTF-8drawSQL-laravel-migration-export-2022-11-13.zip" added="2022-11-13T13:37:16.562249Z" modified="2022-11-14T02:40:48.411595Z" visited="2022-11-13T13:37:16.562250Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-13T15:06:17.055058Z" count="3"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-11-14T02:40:48.411591Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2022-11-14T02:40:46.909622Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/.cache/.fr-gLZ2vu/2022_11_13_133655_create_wisata_table.php" added="2022-11-13T13:37:31.574922Z" modified="2022-11-13T13:37:31.574929Z" visited="2022-11-13T13:37:31.574923Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-13T13:37:31.574926Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/SKPL%20URS%20.pdf" added="2022-11-13T14:15:12.211197Z" modified="2022-11-13T14:19:58.737172Z" visited="2022-11-13T14:15:12.211198Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-13T14:19:58.737166Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/SKPL%20URS%20.docx" added="2022-11-13T14:20:37.021515Z" modified="2022-11-13T14:22:04.781858Z" visited="2022-11-13T14:20:37.021517Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-13T14:22:04.781849Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/Downloads/drawSQL-mysql-export-2022-11-13(1).sql" added="2022-11-13T15:01:02.387418Z" modified="2022-11-14T02:40:42.516807Z" visited="2022-11-13T15:01:02.387420Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/sql"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox-esr %u&apos;" modified="2022-11-13T15:01:02.387424Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2022-11-14T02:40:40.217642Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-14T02:40:42.516804Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dika/.cache/.fr-2QvWhw/2022_11_13_150104_create_wisata_table.php" added="2022-11-14T02:41:14.267003Z" modified="2022-11-14T02:41:14.267008Z" visited="2022-11-14T02:41:14.267004Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-11-14T02:41:14.267006Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

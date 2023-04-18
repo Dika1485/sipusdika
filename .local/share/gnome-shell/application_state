@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Evince.desktop" score="1024.1769813430728" last-seen="1681786581"/>
+    <application id="org.gnome.FileRoller.desktop" score="13.966063976287842" last-seen="1681773180"/>
+    <application id="org.gnome.Boxes.desktop" score="801.8125" last-seen="1681260171"/>
+    <application id="org.gnome.clocks.desktop" score="155" last-seen="1681746908"/>
+    <application id="gnome-control-center.desktop" score="2.7198055982589722" last-seen="1681470587"/>
+    <application id="org.gnome.eog.desktop" score="7974.8261405358498" last-seen="1681769549"/>
+    <application id="libreoffice-calc.desktop" score="78.0625" last-seen="1681553025"/>
+    <application id="org.gnome.Nautilus.desktop" score="684.58462595957724" last-seen="1681802442"/>
+    <application id="org.inkscape.Inkscape.desktop" score="25.375" last-seen="1681354413"/>
+    <application id="libreoffice-impress.desktop" score="1770.94677734375" last-seen="1681786730"/>
+    <application id="org.gnome.Totem.desktop" score="204.6708984375" last-seen="1681689553"/>
+    <application id="org.gnome.Terminal.desktop" score="368.17418216429877" last-seen="1681803206"/>
+    <application id="org.gnome.gedit.desktop" score="1545.4384752698243" last-seen="1681803209"/>
+    <application id="org.gnome.DiskUtility.desktop" score="3.5" last-seen="1681214539"/>
+    <application id="arduino.desktop" score="3120.3839530944824" last-seen="1681731724"/>
+    <application id="rustdesk.desktop" score="27" last-seen="1681688078"/>
+    <application id="gimp.desktop" score="3" last-seen="1681310333"/>
+    <application id="firefox-esr.desktop" score="21792.097023647162" last-seen="1681803185"/>
+  </context>
+</application-state>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Evince.desktop" score="188" last-seen="1673694940"/>
+    <application id="org.gnome.FileRoller.desktop" score="0.53125" last-seen="1673694216"/>
+    <application id="org.gnome.Boxes.desktop" score="1.5" last-seen="1673704801"/>
+    <application id="supertuxkart.desktop" score="65.75" last-seen="1673591569"/>
+    <application id="steam.desktop" score="38.580078125" last-seen="1673659310"/>
+    <application id="gnome-control-center.desktop" score="3.6659984588623047" last-seen="1673665379"/>
+    <application id="org.gnome.gedit.desktop" score="4.46875" last-seen="1673842990"/>
+    <application id="org.gnome.eog.desktop" score="904.24643284082413" last-seen="1673931200"/>
+    <application id="org.gnome.Nautilus.desktop" score="382.85970312356949" last-seen="1673932975"/>
+    <application id="anydesk.desktop" score="270.75" last-seen="1673848312"/>
+    <application id="org.inkscape.Inkscape.desktop" score="3.875" last-seen="1673427285"/>
+    <application id="Zoom.desktop" score="266.75" last-seen="1673706961"/>
+    <application id="org.gnome.Calculator.desktop" score="10.53125" last-seen="1673593753"/>
+    <application id="org.gnome.Terminal.desktop" score="42.709095135331154" last-seen="1673706939"/>
+    <application id="org.gnome.Totem.desktop" score="268.640625" last-seen="1673932873"/>
+    <application id="rustdesk.desktop" score="1.5" last-seen="1673507061"/>
+    <application id="libreoffice-calc.desktop" score="25.25" last-seen="1673594390"/>
+    <application id="firefox-esr.desktop" score="14153.972624324262" last-seen="1673932918"/>
+  </context>
+</application-state>

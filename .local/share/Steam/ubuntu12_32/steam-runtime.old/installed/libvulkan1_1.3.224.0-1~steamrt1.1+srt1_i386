@@ -1,0 +1,16 @@
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./etc/
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./etc/vulkan/
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./etc/vulkan/icd.d/
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./etc/vulkan/implicit_layer.d/
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./etc/vulkan/explicit_layer.d/
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./usr/
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./usr/share/
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./usr/share/doc/
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./usr/share/doc/libvulkan1/
+-rw-r--r-- root/root      1964 2022-10-04 17:53 ./usr/share/doc/libvulkan1/copyright
+-rw-r--r-- root/root      5202 2022-10-19 17:18 ./usr/share/doc/libvulkan1/changelog.Debian.i386.gz
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./usr/lib/
+drwxr-xr-x root/root         0 2022-10-19 17:20 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    521956 2022-10-19 17:20 ./usr/lib/i386-linux-gnu/libvulkan.so.1.3.224
+lrwxrwxrwx root/root         0 2022-10-19 17:20 ./usr/lib/i386-linux-gnu/libvulkan.so.1 -> libvulkan.so.1.3.224

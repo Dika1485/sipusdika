@@ -1,0 +1,7 @@
+drwxr-xr-x root/root         0 2022-09-19 15:05 ./
+drwxr-xr-x root/root         0 2022-09-19 15:05 ./usr/
+drwxr-xr-x root/root         0 2022-09-19 15:05 ./usr/share/
+drwxr-xr-x root/root         0 2022-09-19 15:05 ./usr/share/doc/
+drwxr-xr-x root/root         0 2022-09-19 15:05 ./usr/share/doc/steamrt-legacy/
+-rw-r--r-- root/root      1787 2022-08-30 18:34 ./usr/share/doc/steamrt-legacy/copyright
+-rw-r--r-- root/root     11239 2022-09-19 15:05 ./usr/share/doc/steamrt-legacy/changelog.i386.gz

@@ -1,0 +1,18 @@
+drwxr-xr-x root/root         0 2022-10-06 11:28 ./
+drwxr-xr-x root/root         0 2022-10-06 11:28 ./usr/
+drwxr-xr-x root/root         0 2022-10-06 11:28 ./usr/share/
+drwxr-xr-x root/root         0 2022-10-06 11:28 ./usr/share/doc/
+drwxr-xr-x root/root         0 2022-10-06 11:28 ./usr/share/doc/libcapsule-tools-relocatable/
+-rw-r--r-- root/root      3293 2021-07-28 15:31 ./usr/share/doc/libcapsule-tools-relocatable/copyright
+-rw-r--r-- root/root      5716 2022-10-06 11:25 ./usr/share/doc/libcapsule-tools-relocatable/changelog.Debian.i386.gz
+drwxr-xr-x root/root         0 2022-10-06 11:28 ./usr/lib/
+drwxr-xr-x root/root         0 2022-10-06 11:28 ./usr/lib/libcapsule/
+drwxr-xr-x root/root         0 2022-10-06 11:28 ./usr/lib/libcapsule/relocatable/
+-rwxr-xr-x root/root     34524 2022-10-06 11:28 ./usr/lib/libcapsule/relocatable/i386-linux-gnu-capsule-symbols
+-rwxr-xr-x root/root     34524 2022-10-06 11:28 ./usr/lib/libcapsule/relocatable/i386-linux-gnu-capsule-version
+-rwxr-xr-x root/root     71748 2022-10-06 11:28 ./usr/lib/libcapsule/relocatable/i386-linux-gnu-capsule-capture-libs
+-rwxr-xr-x root/root     26184 2022-10-06 11:28 ./usr/lib/libcapsule/relocatable/i386-linux-gnu-capsule-elf-dump
+lrwxrwxrwx root/root         0 2022-10-06 11:28 ./usr/lib/libcapsule/relocatable/i686-linux-gnu-capsule-symbols -> i386-linux-gnu-capsule-symbols
+lrwxrwxrwx root/root         0 2022-10-06 11:28 ./usr/lib/libcapsule/relocatable/i686-linux-gnu-capsule-elf-dump -> i386-linux-gnu-capsule-elf-dump
+lrwxrwxrwx root/root         0 2022-10-06 11:28 ./usr/lib/libcapsule/relocatable/i686-linux-gnu-capsule-capture-libs -> i386-linux-gnu-capsule-capture-libs
+lrwxrwxrwx root/root         0 2022-10-06 11:28 ./usr/lib/libcapsule/relocatable/i686-linux-gnu-capsule-version -> i386-linux-gnu-capsule-version

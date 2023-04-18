@@ -1,0 +1,13 @@
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./usr/
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./usr/share/
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./usr/share/doc/
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./usr/share/doc/libsteam-runtime-shim-libcurl4/
+-rw-r--r-- root/root      8738 2022-10-14 14:34 ./usr/share/doc/libsteam-runtime-shim-libcurl4/copyright
+-rw-r--r-- root/root     31938 2022-10-14 15:06 ./usr/share/doc/libsteam-runtime-shim-libcurl4/changelog.amd64.gz
+drwxr-xr-x root/root         0 2022-10-14 15:09 ./usr/lib/
+drwxr-xr-x root/root         0 2022-10-14 15:10 ./usr/lib/x86_64-linux-gnu/
+-rw-r--r-- root/root      5936 2022-10-14 15:10 ./usr/lib/x86_64-linux-gnu/libsteam-runtime-shim-libcurl-gnutls.so.4
+-rw-r--r-- root/root      5936 2022-10-14 15:10 ./usr/lib/x86_64-linux-gnu/libsteam-runtime-shim-libcurl.so.4
+lrwxrwxrwx root/root         0 2022-10-14 15:09 ./usr/lib/x86_64-linux-gnu/libsteam-runtime-our-libcurl.so.4 -> libcurl.so.4
+lrwxrwxrwx root/root         0 2022-10-14 15:09 ./usr/lib/x86_64-linux-gnu/libsteam-runtime-our-libcurl-gnutls.so.4 -> libcurl-gnutls.so.4

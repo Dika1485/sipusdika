@@ -1,0 +1,11 @@
+drwxr-xr-x root/root         0 2021-06-10 16:31 ./
+drwxr-xr-x root/root         0 2021-06-10 16:31 ./usr/
+drwxr-xr-x root/root         0 2021-06-10 16:31 ./usr/lib/
+drwxr-xr-x root/root         0 2021-06-10 16:31 ./usr/lib/i386-linux-gnu/
+-rw-r--r-- root/root    269704 2021-06-10 16:31 ./usr/lib/i386-linux-gnu/libnm-glib.so.4.9.0
+drwxr-xr-x root/root         0 2021-06-10 16:31 ./usr/share/
+drwxr-xr-x root/root         0 2021-06-10 16:31 ./usr/share/doc/
+drwxr-xr-x root/root         0 2021-06-10 16:31 ./usr/share/doc/libnm-glib4/
+-rw-r--r-- root/root     27546 2021-06-10 16:25 ./usr/share/doc/libnm-glib4/changelog.Debian.i386.gz
+-rw-r--r-- root/root      3579 2021-06-10 12:44 ./usr/share/doc/libnm-glib4/copyright
+lrwxrwxrwx root/root         0 2021-06-10 16:31 ./usr/lib/i386-linux-gnu/libnm-glib.so.4 -> libnm-glib.so.4.9.0
